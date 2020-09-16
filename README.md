@@ -18,7 +18,7 @@ Original image:
 
 The original image with our constructed hough lines:
 
-<img src="https://github.com/arief25ramadhan/Find-Lanes-Basic/blob/master/lined_image.jpg" width="400">
+<img src="https://github.com/arief25ramadhan/Find-Lanes-Basic/blob/master/optimized_lane_image.jpg" width="400">
 
 ## Sources
 
