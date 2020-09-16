@@ -18,6 +18,8 @@ Original image:
 
 The original image with our constructed hough lines:
 
+<img src="https://github.com/arief25ramadhan/Find-Lanes-Basic/blob/master/lined_image.jpg" width="400">
+
 ## Sources
 
 The code in this project is built by following this tutorial on Youtube from ProgrammingKnowledge's channel:
